@@ -131,6 +131,14 @@ The dashboard tracks critical business metrics including:
 
 ## Dashboard Pages
 
+<img width="494" height="277" alt="Screenshot 2026-06-23 124703" src="https://github.com/user-attachments/assets/d68504b9-2e87-4b97-a5b3-98c82c188601" />
+
+<img width="492" height="278" alt="Screenshot 2026-06-23 124720" src="https://github.com/user-attachments/assets/dcd78d93-4329-4c07-a83b-2cc16e88cabb" />
+
+<img width="495" height="276" alt="Screenshot 2026-06-23 124740" src="https://github.com/user-attachments/assets/4dc1b363-29aa-493f-9a70-197287c8b9a7" />
+
+
+
 ### 1. Executive Overview
 
 Provides a high-level view of business performance.
